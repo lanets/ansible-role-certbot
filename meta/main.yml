@@ -3,9 +3,9 @@ dependencies: []
 
 galaxy_info:
   role_name: certbot
-  author: geerlingguy
+  author: Sonic
   description: "Installs and configures Certbot (for Let's Encrypt)."
-  company: "Midwestern Mac, LLC"
+  company: "Lan ETS"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
