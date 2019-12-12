@@ -1,6 +1,6 @@
 # Ansible Role: Certbot (for Let's Encrypt)
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-certbot.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-certbot)
+[![Build Status](https://travis-ci.org/lanets/ansible-role-certbot.svg?branch=master)](https://travis-ci.org/lanets/ansible-role-certbot)
 
 Installs and configures Certbot (for Let's Encrypt).
 
@@ -95,7 +95,7 @@ None.
         certbot_auto_renew_hour: "5"
     
       roles:
-        - geerlingguy.certbot
+        - lanets.certbot
 
 See other examples in the `tests/` directory.
 
